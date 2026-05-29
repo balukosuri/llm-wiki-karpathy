@@ -11,6 +11,13 @@ Key additions: Full set of 6 mobility and stability exercise reference pages cov
 
 ---
 
+## [2026-05-29] ingest | strength exercise library + TPI pathway analysis (4 pages)
+Pages created: lower-body-strength-exercises.md, upper-body-strength-exercises.md, core-rotational-power-exercises.md, tpi-goal-drill-pathway.md
+Pages updated: —
+Key additions: Three strength exercise reference pages covering 160 total exercises (67 lower body: 35 squat + 30 hinge + 2 accessory; 69 upper body: 32 pull + 30 push + 3 carry + 2 wrist + 2 accessory; 24 core/rotational/conditioning: 19 core + 2 rotational activation + 3 cardiovascular). Each page includes What This Category Trains, TPI Screens Addressed, Golf Application, full Exercise Reference Table (Exercise | Pattern | Category | TPI Screens | Equipment), Programming Notes, and Related Pages. Activation-category exercises with TPI screen linkages are identified throughout. One analysis page (tpi-goal-drill-pathway.md) in analyses/ provides a full 19-row pathway cross-reference table mapping every TPI screen to linked SportsBox goals, key corrective exercises, and technical drills, plus a 3-phase sequencing protocol (physical prep → technical drills → SportsBox re-measurement).
+
+---
+
 ## [2026-05-29] ingest | technical-drills batch (29 pages)
 Pages created: power-cord-drill.md, hip-bar-hinges.md, short-set.md, w-turns.md, sweep-the-dust.md, plug-in-early-extension.md, merry-go-round.md, picket-fence-drill.md, get-closer-to-the-ball.md, tail-between-legs.md, hip-45.md, shaft-above-set-up-shaft.md, step-change.md, barriers.md, pump-drill.md, foot-pressure.md, resisted-sway-drill.md, reach-over-the-fence.md, resisted-slide-drill.md, swing-left.md, plug-in-reverse-spine.md, spring-drill.md, impact-fix.md, lead-leg-only.md, spikes-up.md, swimming-pool.md, cross-hand-drill.md, lead-arm-supported.md, lead-hip-high-lead-shoulder-low-swings.md
 Pages updated: —
