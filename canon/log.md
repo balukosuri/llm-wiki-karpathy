@@ -4,6 +4,13 @@ Append-only activity record. Add entries at the top (newest first).
 
 ---
 
+## [2026-05-30] ingest | Ben Hogan Golf Instruction Dossier
+Pages created: canon/players/ben-hogan.md, canon/teachings/hogan-fundamentals-system.md, canon/teachings/hogan-ball-flight.md, canon/drills/hogan-pane-of-glass.md, canon/drills/hogan-two-belt-drill.md, canon/drills/hogan-pivot-drill.md
+Pages updated: canon/log.md
+Key additions: Full Hogan Canon entry — 1 player overview, 2 teaching pages (fundamentals-system, ball-flight), 3 drill pages (pane-of-glass, two-belt-drill, pivot-drill). Source: ben_hogan_faldo_level_instruction_dossier.md. Cross-links established to hogan-fundamentals-system, hogan-ball-flight, hogan-pane-of-glass, hogan-two-belt-drill, hogan-pivot-drill, nick-faldo, and player-dev/technical-drills/pump-drill.
+
+---
+
 ## [2026-05-30] ingest | Tiger Woods Golf Instruction Dossier
 Pages created: canon/players/tiger-woods.md, canon/teachings/tiger-pre-shot-sequence.md, canon/teachings/tiger-iron-play.md, canon/drills/tiger-stinger-drill.md, canon/drills/tiger-headcover-drill.md, canon/drills/tiger-pause-drill.md
 Pages updated: canon/log.md
